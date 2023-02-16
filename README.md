@@ -1,2 +1,1 @@
-# cute-site-for-to-ask-your-crush-out
-just a simple website for your crush.
+a simple yes or no site, but the "no" button moves at random places everytime it is clicked.
